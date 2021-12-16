@@ -1,5 +1,5 @@
-<!--This change is done by Shivakumar-->
 <?xml version="1.0" encoding="UTF-8"?>
+
 <!--
   Licensed to the Apache Software Foundation (ASF) under one
   or more contributor license agreements.  See the NOTICE file
@@ -50,6 +50,11 @@
   </build>
 
   <dependencies>
+    <!--dependency>
+      <groupId>org.example</groupId>
+      <artifactId>[the artifact id of the block to be mounted]</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency-->
     <!--dependency>
       <groupId>org.example</groupId>
       <artifactId>[the artifact id of the block to be mounted]</artifactId>
